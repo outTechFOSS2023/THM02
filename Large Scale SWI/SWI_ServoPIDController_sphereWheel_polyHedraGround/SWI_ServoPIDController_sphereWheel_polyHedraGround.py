@@ -1,11 +1,20 @@
 # -*- coding: utf-8 -*-
 #*********************************************************************************************************
 #*********************************************************************************************************
-#Copyright 2023 Blueshift, LLC
-#Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, #including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to #do so, subject to the following conditions:
-         #The Software is subject to all use, distribution, modification, sales, and other restrictions applicable to the software-as-a-service product specified in the Agreement.
-#The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-#THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND #NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR #IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+# "SBIR Rights Notice (DEC 2007)
+# These SBIR data are furnished with SBIR rights under Contract No. 80NSSC21C0483. 
+# For a period of 20 years, unless extended in accordance with FAR 27.409(h), after 
+# acceptance of all items to be delivered under this contract, the Government will 
+# use these data for Government purposes only, and they shall not be disclosed outside 
+# the Government (including disclosure for procurement purposes) during such period 
+# without permission of the Contractor, except that, subject to the foregoing use 
+# and disclosure prohibitions, these data may be disclosed for use by support Contractors. 
+# After the protection period, the Government has a paid-up license
+# # to use, and to authorize others to use on its behalf, these data for Government purposes, 
+# but is relieved of all disclosure prohibitions and assumes no liability for unauthorized 
+# use of these data by third parties. This notice shall be affixed to any reproductions of 
+# these data, in whole or in part.
+# (End of Notice)"
 #*********************************************************************************************************
 ##############################
 ## IMPORT NECESSARY MODULES ##
